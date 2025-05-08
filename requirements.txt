@@ -1,0 +1,5 @@
+python-telegram-bot==13.7
+Pillow==10.0.0
+python-dotenv==1.0.0
+# System Requirements
+# FFmpeg must be installed on your system for video processing
